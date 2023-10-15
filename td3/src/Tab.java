@@ -64,4 +64,13 @@ public class Tab {
         }
     }
 
+    static float[] add(float x, float t[])
+    {
+        float[] t1 = new float[t.length];
+        for (int i = 0; i < t1.length; i++)
+        {
+            t1[i] = t[i] + x;
+        }
+        return t1;
+    }
 }
