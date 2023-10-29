@@ -5,17 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e8d02364-5e42-456e-a8d1-6550ebbc2d1b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../DS2019/src/BoiteCourrier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DS2019/src/Colis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DS2019/src/Courrier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DS2019/src/Lettre.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Boutique.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vetement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VetementEnfant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../td4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../td4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,9 +25,9 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/VetementEnfant.java" root0="FORCE_HIGHLIGHTING" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2XDFx2xK1pdEsGPR8rOiqPIYQjk" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -49,6 +39,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -66,6 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1698155989763</updated>
       <workItem from="1698155990821" duration="3547000" />
+      <workItem from="1698603950746" duration="1103000" />
     </task>
     <servers />
   </component>
