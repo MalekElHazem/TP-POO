@@ -5,13 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3556b63b-7e5f-4685-b80e-8abb65c0abeb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../DS2019/src/BoiteCourrier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DS2019/src/Colis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DS2019/src/Courrier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DS2019/src/Lettre.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DS2019/src/pac1/MaClasse1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DS2019/src/pac1/MaClasse2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DS2019/src/pac2/MaClasse3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DS2022 MDW/src/Carte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DS2022 MDW/src/Creature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DS2022 MDW/src/Jeu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DS2022 MDW/src/Magic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DS2022 MDW/src/Sortileges.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DS2022 MDW/src/Terrains.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DS2022/src/Editeur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DS2022/src/Etudiant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DS2022/src/Jeu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DS2022/src/JeuMulti.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DS2020/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DS2020/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,6 +68,8 @@
       <workItem from="1698009993450" duration="1689000" />
       <workItem from="1698149623509" duration="13000" />
       <workItem from="1698150107847" duration="1023000" />
+      <workItem from="1698917933252" duration="1283000" />
+      <workItem from="1699363404895" duration="607000" />
     </task>
     <servers />
   </component>
