@@ -21,7 +21,7 @@ class ProduitElec extends Article implements Promotion {
     @Override
     public float prixDeVente(String dateStr) {
         if (estPeriodePromo(dateStr)) {
-            return calculPrixTTC() * 0.8f; // 20% de remise pendant la promotion
+            return calculPrixTTC() * 0.8f;
         } else {
             return calculPrixTTC();
         }

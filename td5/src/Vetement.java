@@ -13,7 +13,7 @@ class Vetement extends Article implements Promotion {
     @Override
     public float calculPrixTTC() {
         if (estPeriodePromo(LocalDate.now().format(DateTimeFormatter.ofPattern("dd/MM/yyyy")))) {
-            return prixHT * (1 + TVA) * 0.7f; // 30% de remise
+            return prixHT * (1 + TVA) * 0.7f;
         } else {
             return prixHT * (1 + TVA);
         }
